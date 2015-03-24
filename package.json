@@ -7,6 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "",
-  "author": "Tim Wisniewski",
-  "license": "MIT"
+  "author": {
+    "name": "Tim Wisniewski"
+  },
+  "license": "MIT",
+  "readme": "timsgeocoder\n============\nAnother modular geocoder",
+  "readmeFilename": "README.md",
+  "_id": "timsgeocoder@0.0.2",
+  "_from": "timsgeocoder@",
+  "dependencies": {
+    "node-promise": "~0.5.12"
+  }
 }
