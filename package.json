@@ -16,6 +16,7 @@
   "_id": "timsgeocoder@0.0.2",
   "_from": "timsgeocoder@",
   "dependencies": {
-    "node-promise": "~0.5.12"
+    "node-promise": "~0.5.12",
+    "request": "^2.54.0"
   }
 }
